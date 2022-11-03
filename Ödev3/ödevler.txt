@@ -1,1 +1,3 @@
-İlk ödev youtube da belirtilen videoyu izlemek ve yapılanları uygulamak
+Ödev1: Youtube da belirtilen (https://www.youtube.com/watch?v=H3QOQRh8cgk&list=PLqG356ExoxZWfcrBP53Njxir4a-OgqRki&index=2) videoyu izlemek ve yapılanları uygulamak
+Ödev2: Youtube' daki oynatma listesini (https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) izlemek ve uygulamak
+Ödev3: Kodlama.io sitesinin katmanlı yapısını bir projede örneklemek
