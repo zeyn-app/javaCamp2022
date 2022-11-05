@@ -7,5 +7,5 @@ Also there are some constraints: <br/>
 •	The id’s must be unique.
 
 
-![kodlamaioOutput](https://user-images.githubusercontent.com/64809828/200116863-d5cc3ab0-2725-4a3c-a305-443d4bebcee8.png)
+![image](https://user-images.githubusercontent.com/64809828/200121836-73b9b350-0721-43c6-b025-c5ab36bb65a9.png)
 ![localhost](https://user-images.githubusercontent.com/64809828/200116856-96e71b57-be85-4d72-870d-f8974e8bf225.png)
